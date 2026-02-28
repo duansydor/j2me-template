@@ -1,7 +1,0 @@
-MIDlet-Name: MeuTemplateJ2ME
-MIDlet-Version: 1.0
-MIDlet-Vendor: TermuxDev
-MIDlet-1: MeuTemplateJ2ME, , Main
-MicroEdition-Profile: MIDP-2.0
-MicroEdition-Configuration: CLDC-1.1
-
